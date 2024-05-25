@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+   <link rel="stylesheet" type="text/cc" href="Basic_CSS_2.css">
+    <body>
+      <h1>Example of non breaking space entity</h1>
+      <h2>A space character: &nbsp;</h2>
+      <link rel="stylesheet" type="text/css" href="Basic_css_2.css">
+      <p>styled font.</p>
+   </body>
+</html>
